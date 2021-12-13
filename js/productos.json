@@ -1,0 +1,31 @@
+[
+    {
+        "id": "1",
+        "titulo": "Mesa de Luz Olimpia",
+        "categoria": "mesa de luz",
+        "precio": "12000",
+        "img": "prod1"
+    },
+    {
+        "id": "2",
+        "titulo": "Mesa de Luz Kuzco",
+        "categoria": "mesa de luz",
+        "precio": "8000",
+        "img": "prod2"
+    },
+    {
+        "id": "3",
+        "titulo": "Mesa de Luz Nymeria",
+        "categoria": "mesa de luz",
+        "precio": "4999",
+        "img": "prod3"
+    },
+    {
+        "id": "4",
+        "titulo": "Mesa de Luz Shenzi",
+        "categoria": "mesa de luz",
+        "precio": "8450",
+        "img": "prod4"
+    }
+    
+    ]
