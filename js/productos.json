@@ -26,6 +26,13 @@
         "categoria": "mesa de luz",
         "precio": "8450",
         "img": "prod4"
+    },
+    {
+        "id": "5",
+        "titulo": "Mesa de Luz Piripi",
+        "categoria": "mesa de luz",
+        "precio": "8450",
+        "img": "prod5"
     }
     
     ]
