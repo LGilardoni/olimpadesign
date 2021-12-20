@@ -26,13 +26,5 @@
         "categoria": "mesa de luz",
         "precio": "8450",
         "img": "prod4"
-    },
-    {
-        "id": "5",
-        "titulo": "Mesa de Luz Silvestre",
-        "categoria": "mesa de luz",
-        "precio": "9100",
-        "img": "prod7"
-    }
-    
+    }    
     ]
