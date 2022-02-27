@@ -26,5 +26,33 @@
         "categoria": "mesa de luz",
         "precio": "8450",
         "img": "prod4"
+    },
+        {
+        "id": "5",
+        "titulo": "Mesa de Luz Shenzi",
+        "categoria": "mesa de luz",
+        "precio": "8450",
+        "img": "prod4"
+    },
+        {
+        "id": "6",
+        "titulo": "Mesa de Luz Shenzi",
+        "categoria": "mesa de luz",
+        "precio": "8450",
+        "img": "prod4"
+    },
+        {
+        "id": "7",
+        "titulo": "Mesa de Luz Shenzi",
+        "categoria": "mesa de luz",
+        "precio": "8450",
+        "img": "prod4"
+    },
+        {
+        "id": "8",
+        "titulo": "Mesa de Luz Shenzi",
+        "categoria": "mesa de luz",
+        "precio": "8450",
+        "img": "prod4"
     }    
     ]
