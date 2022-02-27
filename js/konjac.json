@@ -5,7 +5,8 @@
       "price": "10.000",
       "discount": "false",
       "envio": "true",
-      "img":  "images/productos/detox-box.jpg"
+      "img":  "images/productos/detox-box.jpg",
+      "other": "6 cuotas sin interés"
     },
     {
       "id": "1",
